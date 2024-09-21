@@ -1,6 +1,6 @@
 [
     {
-        "url": "https://vulcan.dl.playstation.net/img/cfn/11307lrwGiu6_6TjCcN1KL3xGifC4kGXb_g1PLNJUt6BtwFAH52ts_OgpbQRpsMOCtkYxSYJWpUrLYncM53ox9Ehxj8BkRS2.jpg",
+        "url": "https://files.vgtimes.ru/gallery/thumb/198330/3752774467_ss_c10dfb0a625ee34bf53c98682b46f42433163.jpg",
         "title": "Unity Simple Zombie FPS"
     },
  {
@@ -28,7 +28,7 @@
         "title": "Explosive glitches in Battlefield"
     },
  {
-        "url": "https://media.rawg.io/media/resize/1280/-/screenshots/952/9520c5714f31e253749d0883aa3d48c0.jpg",
+        "url": "https://i.ytimg.com/vi/FW2pNLN8MGQ/maxresdefault.jpg",
         "title": "НОВЫЙ ПИСТОЛЕТ "
     },
  {
