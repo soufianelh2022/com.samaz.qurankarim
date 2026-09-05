@@ -1,0 +1,22 @@
+{
+  "ads_enabled": true,
+  "ads_provider": "admob",
+  "applovin_sdk_key": "",
+  "cooldown_app_open_sec": 300,
+  "app_open_enabled": true,
+  "app_open_min_launch_count": 3,
+  "interstitial_action_count": 3,
+  "interstitial_cooldown_sec": 120,
+  "interstitial_initial_delay_sec": 120,
+  "banner_refresh_sec": 120,
+  "show_free_play_popup": false,
+  "banner_onboarding_enabled": true,
+  "banner_selection_enabled": true,
+  "banner_gameplay_enabled": false,
+  "app_open_ad_unit_id": "ca-app-pub-YOUR_PUBLISHER/YOUR_APP_OPEN_UNIT",
+  "interstitial_ad_unit_id": "ca-app-pub-YOUR_PUBLISHER/YOUR_INTERSTITIAL_UNIT",
+  "rewarded_ad_unit_id": "ca-app-pub-YOUR_PUBLISHER/YOUR_REWARDED_UNIT",
+  "banner_onboarding_ad_unit_id": "ca-app-pub-YOUR_PUBLISHER/YOUR_ONBOARDING_BANNER_UNIT",
+  "banner_selection_ad_unit_id": "ca-app-pub-YOUR_PUBLISHER/YOUR_SELECTION_BANNER_UNIT",
+  "banner_gameplay_ad_unit_id": ""
+}
