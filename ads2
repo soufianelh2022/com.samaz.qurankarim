@@ -13,10 +13,11 @@
   "banner_onboarding_enabled": true,
   "banner_selection_enabled": true,
   "banner_gameplay_enabled": true,
+  "native_onboarding_ad_unit_id": "ca-app-pub-5318077592177136/4430844722",
   "app_open_ad_unit_id": "ca-app-pub-5318077592177136/9320209326",
   "interstitial_ad_unit_id": "ca-app-pub-5318077592177136/9683171407",
   "rewarded_ad_unit_id": "ca-app-pub-5318077592177136/7057008066",
-  "banner_onboarding_ad_unit_id": "ca-app-pub-5318077592177136/1996253070,
+  "banner_onboarding_ad_unit_id": "ca-app-pub-5318077592177136/1996253070",
   "banner_selection_ad_unit_id": "ca-app-pub-5318077592177136/1996253070",
   "banner_gameplay_ad_unit_id": "ca-app-pub-5318077592177136/1996253070"
 }
