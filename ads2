@@ -12,11 +12,11 @@
   "show_free_play_popup": false,
   "banner_onboarding_enabled": true,
   "banner_selection_enabled": true,
-  "banner_gameplay_enabled": false,
-  "app_open_ad_unit_id": "ca-app-pub-YOUR_PUBLISHER/YOUR_APP_OPEN_UNIT",
-  "interstitial_ad_unit_id": "ca-app-pub-YOUR_PUBLISHER/YOUR_INTERSTITIAL_UNIT",
-  "rewarded_ad_unit_id": "ca-app-pub-YOUR_PUBLISHER/YOUR_REWARDED_UNIT",
-  "banner_onboarding_ad_unit_id": "ca-app-pub-YOUR_PUBLISHER/YOUR_ONBOARDING_BANNER_UNIT",
-  "banner_selection_ad_unit_id": "ca-app-pub-YOUR_PUBLISHER/YOUR_SELECTION_BANNER_UNIT",
-  "banner_gameplay_ad_unit_id": ""
+  "banner_gameplay_enabled": true,
+  "app_open_ad_unit_id": "ca-app-pub-5318077592177136/9320209326",
+  "interstitial_ad_unit_id": "ca-app-pub-5318077592177136/9683171407",
+  "rewarded_ad_unit_id": "ca-app-pub-5318077592177136/7057008066",
+  "banner_onboarding_ad_unit_id": "ca-app-pub-5318077592177136/1996253070,
+  "banner_selection_ad_unit_id": "ca-app-pub-5318077592177136/1996253070",
+  "banner_gameplay_ad_unit_id": "ca-app-pub-5318077592177136/1996253070"
 }
